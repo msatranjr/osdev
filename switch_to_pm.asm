@@ -23,3 +23,4 @@ init_pm:
 	mov ebp, 0x90000
 	mov esp, ebp
 
+	call begin_pm
